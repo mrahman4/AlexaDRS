@@ -1,0 +1,46 @@
+{
+  "intents": [
+    {
+      "intent": "ServiceTypeIntent",
+      "slots": [
+        {
+          "name": "ServiceName", 
+          "type": "SERVICE_TYPES"
+        }
+      ]
+    },
+    {
+      "intent": "ProductTypeIntent",
+      "slots": [
+        {
+          "name": "ProductType", 
+          "type": "PRODUCT_TYPES"
+        }
+      ]
+    },
+    {
+      "intent": "DontKnowIntent"
+    },
+    {
+      "intent": "AMAZON.StartOverIntent"
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

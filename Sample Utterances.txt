@@ -1,0 +1,20 @@
+ServiceTypeIntent {ServiceName}
+ServiceTypeIntent selected service is {ServiceName}
+ServiceTypeIntent {ServiceName} please
+
+ProductTypeIntent {ProductType}
+ProductTypeIntent I want to purshase {ProductType}
+ProductTypeIntent {ProductType} please
+
+AMAZON.StartOverIntent start menu
+AMAZON.StartOverIntent again
+AMAZON.StartOverIntent menu
+AMAZON.StartOverIntent start menu again
+
+DontKnowIntent i don't know
+DontKnowIntent don't know
+DontKnowIntent i don't know that
+DontKnowIntent who knows
+DontKnowIntent i don't understand this question
+DontKnowIntent i don't know that one
+DontKnowIntent help
